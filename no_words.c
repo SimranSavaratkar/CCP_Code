@@ -1,5 +1,4 @@
 /* numbers to word*/
-// 1 11 111 1,111 11,111 111,111 1,111,111 11,111,111
 #include<stdio.h>
 #include<string.h>
 void read(char n[],char str[],int a)
@@ -90,6 +89,4 @@ main()
         read1(n,str);
     printf("%s\n",str);
     }
-
-
 }
